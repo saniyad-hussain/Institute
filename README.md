@@ -1,1 +1,1 @@
-# Institute
+# Institute wordpress theme 
